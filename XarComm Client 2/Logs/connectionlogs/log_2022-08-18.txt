@@ -1,0 +1,9 @@
+2022-08-18 10:58:05=Connected to server;<socket.socket fd=872, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 56906), raddr=('192.168.56.1', 55555)>;;1
+2022-08-18 10:58:18=creds sent;<socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 56907), raddr=('192.168.56.1', 55555)>;ekam;2
+2022-08-18 10:58:18=Successful login;<socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 56907), raddr=('192.168.56.1', 55555)>;ekam;4
+2022-08-18 11:28:23=Connected to server;<socket.socket fd=856, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 61052), raddr=('192.168.56.1', 55555)>;;1
+2022-08-18 11:28:30=creds sent;<socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 61053), raddr=('192.168.56.1', 55555)>;ekam;2
+2022-08-18 11:28:30=Successful login;<socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 61053), raddr=('192.168.56.1', 55555)>;ekam;4
+2022-08-18 14:13:06=Connected to server;<socket.socket fd=856, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 54796), raddr=('192.168.56.1', 55555)>;;1
+2022-08-18 14:13:17=creds sent;<socket.socket fd=872, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 54797), raddr=('192.168.56.1', 55555)>;ekam;2
+2022-08-18 14:13:17=Successful login;<socket.socket fd=872, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 54797), raddr=('192.168.56.1', 55555)>;ekam;4

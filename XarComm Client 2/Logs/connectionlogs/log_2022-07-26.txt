@@ -1,0 +1,3 @@
+2022-07-26 11:37:11=Connected to server;<socket.socket fd=852, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 53336), raddr=('192.168.56.1', 55555)>;;1
+2022-07-26 11:37:19=creds sent;<socket.socket fd=812, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 53339), raddr=('192.168.56.1', 55555)>;ekam;2
+2022-07-26 11:37:19=Successful login;<socket.socket fd=812, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 53339), raddr=('192.168.56.1', 55555)>;ekam;4

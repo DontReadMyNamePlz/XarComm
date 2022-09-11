@@ -1,0 +1,23 @@
+2022-07-06 19:45:15=Server started;;;11
+2022-07-06 19:45:42=Client connected;<socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56829)>;;2
+2022-07-06 19:45:58=Unable to contact;<socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56829)>;;8
+2022-07-06 19:45:58=Client connected;<socket.socket fd=1028, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56837)>;;2
+2022-07-06 19:45:58=creds received;<socket.socket fd=1028, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56837)>;arin;3
+2022-07-06 19:45:58=Incorrect password login request;<socket.socket fd=1028, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56837)>;arin;6
+2022-07-06 19:46:05=Client connected;<socket.socket fd=1028, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56843)>;;2
+2022-07-06 19:46:05=creds received;<socket.socket fd=1028, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56843)>;arin;3
+2022-07-06 19:46:05=Successful login request;<socket.socket fd=1028, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56843)>;arin;5
+2022-07-06 19:46:16=Valid key;<socket.socket fd=1028, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56843)>;arin;13
+2022-07-06 19:46:58=Client connected;<socket.socket fd=1076, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56868)>;;2
+2022-07-06 19:47:04=Unable to contact;<socket.socket fd=1076, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56868)>;;8
+2022-07-06 19:47:04=Client connected;<socket.socket fd=1072, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56873)>;;2
+2022-07-06 19:47:04=creds received;<socket.socket fd=1072, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56873)>;ekam;3
+2022-07-06 19:47:04=Successful login request;<socket.socket fd=1072, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56873)>;ekam;5
+2022-07-06 19:47:04=Valid key;<socket.socket fd=1072, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 56873)>;ekam;13
+2022-07-06 19:54:18=Server started;;;11
+2022-07-06 19:56:32=Client connected;<socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 57169)>;;2
+2022-07-06 19:56:38=Unable to contact;<socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 57169)>;;8
+2022-07-06 19:56:38=Client connected;<socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 57173)>;;2
+2022-07-06 19:56:38=creds received;<socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 57173)>;arin;3
+2022-07-06 19:56:38=Successful login request;<socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 57173)>;arin;5
+2022-07-06 19:56:39=Valid key;<socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.56.1', 55555), raddr=('192.168.56.1', 57173)>;arin;13
